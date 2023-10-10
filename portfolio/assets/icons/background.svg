@@ -1,0 +1,19 @@
+<svg width="1024" height="969" viewBox="0 0 1024 969" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="54.3594" y="988.759" width="491.373" height="1413.7" rx="50" transform="rotate(-135 54.3594 988.759)" fill="url(#paint0_diamond_1_66)"/>
+<rect x="54.3594" y="987.345" width="489.373" height="1411.7" rx="49" transform="rotate(-135 54.3594 987.345)" stroke="url(#paint1_linear_1_66)" stroke-opacity="0.5" stroke-width="2"/>
+<defs>
+<radialGradient id="paint0_diamond_1_66" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(125.365 716.301) rotate(78.7349) scale(2044.46 899.983)">
+<stop/>
+<stop offset="0.28125"/>
+<stop offset="0.546875" stop-color="#22155C"/>
+<stop offset="0.724369" stop-color="#3F259D"/>
+<stop offset="0.839688" stop-color="#704AE7"/>
+<stop offset="1" stop-color="#C6B8F6"/>
+</radialGradient>
+<linearGradient id="paint1_linear_1_66" x1="107.007" y1="951.855" x2="851.756" y2="1109.53" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.494792" stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
